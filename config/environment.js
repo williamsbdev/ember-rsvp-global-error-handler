@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'ember-rsvp-global-error-handler',
+    modulePrefix: 'rsvp-error-handler',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
